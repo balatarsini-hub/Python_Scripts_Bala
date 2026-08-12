@@ -4,9 +4,9 @@ This repository contains Python scripts used to automate various reporting and d
 
 ## Available Scripts
 
-| Script | Purpose |
-|---|---|
-| `BR_Mapping.py` | Split Quarterly BR data into months for MY and SG |
+**| Script | Purpose | Purpose |**
+|---|---|---|
+| `BR_Mapping.py` | Splits quarterly BR data into monthly data for MY and SG |kok|
 
 ## How to use
 
