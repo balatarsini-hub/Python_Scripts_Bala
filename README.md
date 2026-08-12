@@ -1,10 +1,10 @@
 # Python Scripts Handover
 
-This repository contains Python scripts used to automate various reporting and data preparation tasks.
+This repository contains Python scripts used to automate various reporting and data preparation tasks. All my folders is now available in teams under my folder for reference
 
 ## Available Scripts
 
-**| Script | Purpose | Purpose |**
+| Script | Purpose | Required files/folders | 
 |---|---|---|
 | `BR_Mapping.py` | Splits quarterly BR data into monthly data for MY and SG |kok|
 
