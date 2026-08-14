@@ -7,7 +7,9 @@ All my folders is now available in teams under "Bala" folder for reference
 
 | Script | Purpose | Required files/folders | 
 |---|---|---|
-| `BR_Mapping.py` | Splits quarterly BR data into monthly data for MY and SG |1. "Actual Market" folder <br> 2. "Raw BR" folder <br> 3. MY and SG O+O report <br> BR Data
+| `BR_Mapping.py` | Splits quarterly BR data into monthly data for MY and SG |*1. "Actual Market" folder <br> 2. "Raw BR" folder <br> 3. MY and SG O+O report <br> 4. BR Data*|
+|`Estimation MY.py` | Estimates market values for MY mm'2026 |*1. MMPR for current <br> 2. Last month Luxe report <br> 3. BR After Split for latest quarter file*|
+|`Estimation SG.py`| Estimates market values for MY mm'2026 |*1. Mkt est 2026_mm file <br> 2. Last month Luxe report <br> 3. BR After Split for latest quarter file*|
 
 ## How to use
 
@@ -39,4 +41,10 @@ All my folders is now available in teams under "Bala" folder for reference
 <br> **Estimation MY**
 1. Create 1 folder and put currect working month **MMPR** file, **O+O report**, and **BR After Split file MY** file for easy ref
 2. Download the last month's Luxe report. Filter to market 2026. Change the skincare with lowest value to Hair/Others. 
-3. Things to change in script: <br>*a. MMPR - current working month MMPR <br> b. root_out = Estimation Market > MY folder <br> c. lux - last working month's (Market Hair/Others remain as Hair/Others <br> d. br = MY BR Monthly split (the BR_Mapping.py' scripts output) <br> e. update_month - current working month <br> f. current_Quarter - working month's quarter
+3. Things to change in script: <br>*a. MMPR - current working month MMPR <br> b. root_out = Estimation Market > MY folder <br> c. lux - last working month's (Market Hair/Others remain as Hair/Others) <br> d. br = MY BR Monthly split (the BR_Mapping.py' scripts output for MY) <br> e. update_month - current working month <br> f. current_Quarter - working month's quarter*
+
+<br> **Estimation SG**
+1. Download Mkt est 2026 for currect month file. Usually Siew Mun give this. Or can get from Celine.
+2. Download the last month's Luxe report. Filter to market 2025 and 2026. Change the skincare with lowest value to Hair/Others.
+3. Things to change in script: <br>*a. MKT - current working month Mkt est 2026 file <br> b. root_out = Estimation Market > SG folder <br> c. lux - last working month's (Market Hair/Others remain as Hair/Others) <br> d. br = MY BR Monthly split (the BR_Mapping.py' scripts output for SG) <br> e. update_month - current working month <br> f. current_Quarter - working month's quarter*
+4. Change the market number both 2025 and 2026
