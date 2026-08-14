@@ -9,23 +9,23 @@ import numpy as np
 # ===============================
 # 🔧 USER CONFIG — UPDATE ONLY THIS
 # ===============================
-update_month = "Jun"    # e.g. "Jan".."Dec" ( T - 1 )
+update_month = "Jul"    # e.g. "Jan".."Dec" ( T - 1 )
 current_Quarter = "Q2"
 
 # Update Year here
 year = 2026
 
 # Update MMPR File here
-MMPR     = r"C:\Users\balatarsini_avinitya\Downloads\MMPR 2606 - 10.7.26.xls"
+MMPR     = r"C:\Users\balatarsini_avinitya\Downloads\MMPR 2607 - 11.8.26.xls"
 
 # Update export root file here
 ROOT_OUT = Path(r"C:\Users\balatarsini_avinitya\Downloads\Final folders\LLD Market Estimation  V10.6.2026\LLD Market numbers\Estimation Market\MY")
 
 # Update last month's lux report here
-lux = Path(r"C:\Users\balatarsini_avinitya\Downloads\New LUX report summary_MY_May'26(Others market remain as Others) (2).xlsx")
+lux = Path(r"C:\Users\balatarsini_avinitya\Downloads\New LUX report summary_MY_June'26(Others market remain as Others) (1).xlsx")
 
 # Update BR Data Split here
-br = Path(r"C:\Users\balatarsini_avinitya\Downloads\Final folders\LLD Market Estimation  V10.6.2026\LLD Market numbers\Actual Market\MY\BR After Split MY May'26 - Include All Platform.xlsx")
+br = Path(r"C:\Users\balatarsini_avinitya\Downloads\Final folders\LLD Market Estimation  V10.6.2026\LLD Market numbers\Actual Market\MY After Monthly Split\Output\MY BR Monthly split (2024 Q1 - 2026 Q2).xlsx")
 br = pd.read_excel(br, header=0)
 
 # ===============================
