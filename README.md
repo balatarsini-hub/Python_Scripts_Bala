@@ -30,7 +30,7 @@ All my folders is now available in teams under "Bala" folder for reference
 - Create new folder for each month
 
 ## Instruction
-**LUXE** - Download **LLD Market Estimation V10.6.2026** folder
+Download **LLD Market Estimation V10.6.2026** folder
 
 <br>**BR_Mapping.py**
 1. Save the latest O+O report in : *LLD Market Estimation  V10.6.2026 > LLD Market numbers >Actual Market > MY/SG After Monthly Split*
