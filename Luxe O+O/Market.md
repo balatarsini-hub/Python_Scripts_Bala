@@ -1,4 +1,4 @@
-# Market Scripts
+# Luxe Market
 
 This repository contains Python scripts used for reporting and data preparation tasks. 
 All my folders is now available in teams under "Bala" folder for reference
