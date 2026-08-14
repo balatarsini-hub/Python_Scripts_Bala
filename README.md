@@ -38,4 +38,5 @@ All my folders is now available in teams under "Bala" folder for reference
 
 <br> **Estimation MY**
 1. Create 1 folder and put currect working month **MMPR** file, **O+O report**, and **BR After Split file MY** file for easy ref
-2. Things to change in script:
+2. Download the last month's Luxe report. Filter to market 2026. Change the skincare with lowest value to Hair/Others. 
+3. Things to change in script: <br>*a. MMPR - current working month MMPR <br> b. root_out = Estimation Market > MY folder <br> c. lux - last working month's (Market Hair/Others remain as Hair/Others <br> d. br = MY BR Monthly split (the BR_Mapping.py' scripts output) <br> e. update_month - current working month <br> f. current_Quarter - working month's quarter
