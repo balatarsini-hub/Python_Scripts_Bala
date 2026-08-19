@@ -39,7 +39,7 @@ Download **CPD and LDB O+O and Offline Bodycare ingestion** folder
 1. Refresh Nielsen O+O file <br>
 2. Put `Rename OMT File` output in CPD & LDB O+O - June > loreal-report-automation (2) > Data Source > OMT - O+O
 
-<br> **`Rename OMT File`**
+<br> **Rename OMT File**
 1. Download OMT Data put in 1 folder <br>
 2. Change the path
 
