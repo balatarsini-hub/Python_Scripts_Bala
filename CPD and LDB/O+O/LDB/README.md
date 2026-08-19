@@ -11,7 +11,7 @@ All my folders is now available in teams under "Bala" folder for reference
 | `SG LDB O+O` | SG CPD JUN 2026 O+O| Nielsen O+O and OMT|
 | `Rename OMT File` | Change OMT file name| OMT Data|
 |`Bodycare estimate` | Bodycare pulse report split <br>- LDB Data Output Jul'26|*1. MY and SG Pulse Report <br> 2. MYSG ONE CPD CMI YTD Jun'26*|
-|`Suncare estimate` | Suncare pulse report split <br>- Suncare LDB Data Output Jul'26|*1. MY and SG Pulse Report <br> 2. MYSG ONE CPD CMI YTD Jun'26*|
+|`Suncare_estimation_LDB - Including Competitor brands` | Suncare pulse report split <br>- Suncare LDB Data Output Jul'26|*1. MY and SG Pulse Report <br> 2. MYSG ONE CPD CMI YTD Jun'26*|
 
 
 ## How to use
