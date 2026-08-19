@@ -7,9 +7,10 @@ All my folders is now available in teams under "Bala" folder for reference
 
 | Script | Required files/folders | 
 |---|---|
-| `CPD Brand Ranking` | *1. "Actual Market" folder <br> 2. "Raw BR" folder <br> 3. MY and SG O+O report <br> 4. BR Data*|
-|`Estimation MY.py` | *1. MMPR for current <br> 2. Last month Luxe report <br> 3. BR After Split for latest quarter file*|
-|`Estimation SG.py`| *1. Mkt est 2026_mm file <br> 2. Last month Luxe report <br> 3. BR After Split for latest quarter file*|
+| `MY CPD Brand Ranking` | Nielsen Brand Ranking_Jun26|
+| `SG CPD Brand Ranking` | Nielsen Brand Ranking_Jun26|
+|`CPD Brand Ranking` | *1. MY CPD Brand Ranking JUNE 2026 <br> 2. Offline Estimation Jun'26_updated with Top NIQP Brands Q2'26 <br> 3. SG CPD Brand Ranking JUNE 2026 <br> 4. MYSG ONE CPD CMI YTD Jun'26 <br> 5. CPD Data Output Jul'26 (Bodycare pulse report split)*|
+|`LDB Brand Ranking`| *1. MYSG ONE LDB CMI YTD Jun'26 <br> 2. LDB Data Output Jun'26 (Suncare and Bodycare pulse report split) <br> 3. Nielsen Brand Ranking_Jun26*|
 
 ## How to use
 
@@ -30,22 +31,14 @@ All my folders is now available in teams under "Bala" folder for reference
 - Create new folder for each month
 
 ## Instruction
-Download **LLD Market Estimation V10.6.2026** folder
+Download **CPD and LDB O+O** folder
 
-<br>**BR_Mapping.py**
-1. Save the latest O+O report in : *LLD Market Estimation  V10.6.2026 > LLD Market numbers >Actual Market > MY/SG After Monthly Split*
-2. In *LLD Market Estimation  V10.6.2026 > LLD Market numbers > Raw BR* folder rename last quarter BR data folder. Eg. MY_Q1'26. Make sure new BR data folder named as "MY" and "SG"
-3. Things to change in script: <br>*a. output_root - "Actual Market" folder path <br> b. raw_br_root - "Raw BR" folder path <br> c."ooo_report_by_country" - Luxe O+O report path*
-4. Change the Quartertarget_year (if needed) and target_quarter
+<br>**MY CPD Brand Ranking and SG CPD Brand Ranking**
+1. Refresh Nielsen Brand Ranking file
 
-<br> **Estimation MY**
-1. Create 1 folder and put currect working month **MMPR** file, **O+O report**, and **BR After Split file MY** file for easy ref
-2. Download the last month's Luxe report. Filter to market 2026. Change the skincare with lowest value to Hair/Others. 
-3. Things to change in script: <br>*a. MMPR - current working month MMPR <br> b. root_out = Estimation Market > MY folder <br> c. lux - last working month's (Market Hair/Others remain as Hair/Others) <br> d. br = MY BR Monthly split (the BR_Mapping.py' scripts output for MY) <br> e. update_month - current working month <br> f. current_Quarter - working month's quarter*
+<br> **CPD Brand Ranking**
+1. Update files to the latest path
 
-<br> **Estimation SG**
-1. Download Mkt est 2026 for currect month file. Usually Siew Mun give this. Or can get from Celine.
-2. Download the last month's Luxe report. Filter to market 2025 and 2026. Change the skincare with lowest value to Hair/Others.
-3. Things to change in script: <br>*a. MKT - current working month Mkt est 2026 file <br> b. root_out = Estimation Market > SG folder <br> c. lux - last working month's (Market Hair/Others remain as Hair/Others) <br> d. br = MY BR Monthly split (the BR_Mapping.py' scripts output for SG) <br> e. update_month - current working month <br> f. current_Quarter - working month's quarter*
-4. Change the market number both 2025 and 2026
+<br> **LDB Brand Ranking**
+1. Update files to the latest path 
 
