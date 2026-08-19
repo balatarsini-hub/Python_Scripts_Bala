@@ -10,7 +10,7 @@ All my folders is now available in teams under "Bala" folder for reference
 | `MY CPD Brand Ranking` | Nielsen Brand Ranking_Jun26|
 | `SG CPD Brand Ranking` | Nielsen Brand Ranking_Jun26|
 |`CPD Brand Ranking` | *1. MY CPD Brand Ranking JUNE 2026 <br> 2. Offline Estimation Jun'26_updated with Top NIQP Brands Q2'26 <br> 3. SG CPD Brand Ranking JUNE 2026 <br> 4. MYSG ONE CPD CMI YTD Jun'26 <br> 5. CPD Data Output Jul'26 (Bodycare pulse report split)*|
-|`LDB Brand Ranking`| *1. MYSG ONE LDB CMI YTD Jun'26 <br> 2. LDB Data Output Jun'26 (Suncare and Bodycare pulse report split) <br> 3. Nielsen Brand Ranking_Jun26*|
+|`LDB Brand Ranking`| *1. MYSG ONE LDB CMI YTD Jun'26 <br> 2. LDB Data Output Jun'26 (Bodycare and Suncare pulse report split. Put both output in file) <br> 3. Nielsen Brand Ranking_Jun26*|
 
 ## How to use
 
@@ -40,5 +40,6 @@ Download **CPD and LDB O+O** folder
 1. Update files to the latest path
 
 <br> **LDB Brand Ranking**
-1. Update files to the latest path 
+1. Update files to the latest path <br>
+2. For *'LDB Data Output Jun'26'* include suncare
 
