@@ -41,5 +41,5 @@ Download **CPD and LDB O+O** folder
 
 <br> **LDB Brand Ranking**
 1. Update files to the latest path <br>
-2. For *'LDB Data Output Jun'26'* include suncare
+2. For *'LDB Data Output Jun'26'* include suncare pulse split output data
 
