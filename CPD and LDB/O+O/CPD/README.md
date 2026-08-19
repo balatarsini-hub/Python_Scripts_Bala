@@ -35,12 +35,16 @@ All my folders is now available in teams under "Bala" folder for reference
 Download **CPD and LDB O+O and Offline Bodycare ingestion** folder
 
 <br>**MY CPD O+O & SG CPD O+O**
-1. Refresh Nielsen O+O file <br> 2. Put `Rename OMT File` output in CPD & LDB O+O - June > loreal-report-automation (2) > Data Source > OMT - O+O
+
+1. Refresh Nielsen O+O file <br>
+2. Put `Rename OMT File` output in CPD & LDB O+O - June > loreal-report-automation (2) > Data Source > OMT - O+O
 
 <br> **`Rename OMT File`**
-1. Download OMT Data put in 1 folder <br> 2. Change the path
+1. Download OMT Data put in 1 folder <br>
+2. Change the path
 
 <br> **Bodycare estimate**
-1. Update files to the latest path <br> change REPORT_HEADER_ROW if needed
+1. Update files to the latest path <br>
+2. Change REPORT_HEADER_ROW if needed
 
 
