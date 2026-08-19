@@ -10,8 +10,8 @@ All my folders is now available in teams under "Bala" folder for reference
 | `MY LDB O+O` | MY CPD JUN 2026 O+O| Nielsen O+O and OMT|
 | `SG LDB O+O` | SG CPD JUN 2026 O+O| Nielsen O+O and OMT|
 | `Rename OMT File` | Change OMT file name| OMT Data|
-|`Bodycare estimate` | Bodycare pulse report split <br>- LDB Data Output Jul'26|*1. MY and SG Pulse Report <br> 2. MYSG ONE CPD CMI YTD Jun'26*|
-|`Suncare_estimation_LDB - Including Competitor brands` | Suncare pulse report split <br>- Suncare LDB Data Output Jul'26|*1. MY and SG Pulse Report <br> 2. MYSG ONE CPD CMI YTD Jun'26*|
+|`Bodycare estimate_LDB` | Bodycare pulse report split <br>- LDB Data Output Jul'26|*1. MY and SG Pulse Report <br> 2. MYSG ONE CPD CMI YTD Jun'26*|
+|`Suncare_estimation_LDB`| Suncare pulse report split including competitor brands <br>- Suncare LDB Data Output Jul'26|*1. MY and SG Pulse Report <br> 2. MYSG ONE CPD CMI YTD Jun'26*|
 
 
 ## How to use
@@ -44,11 +44,11 @@ Download **CPD and LDB O+O and Offline Bodycare ingestion** folder
 1. Download OMT Data put in 1 folder <br>
 2. Change the path
 
-<br> **Bodycare estimate**
+<br> **Bodycare estimate_LDB**
 1. Update files to the latest path <br>
 2. Change REPORT_HEADER_ROW if needed
 
-<br> **Suncare estimate**
+<br> **Suncare estimate_LDB**
 1. Update files to the latest path <br>
 2. Change REPORT_HEADER_ROW, MY_MARKET_ROW, SG_MARKET_ROW, brand's row if needed
 
