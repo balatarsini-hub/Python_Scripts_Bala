@@ -10,7 +10,7 @@ All my folders is now available in teams under "Bala" folder for reference
 | `MY CPD O+O` | MY CPD JUN 2026 O+O| Nielsen O+O and OMT|
 | `SG CPD O+O` | SG CPD JUN 2026 O+O| Nielsen O+O and OMT|
 | `Rename OMT File` | Change OMT file name| OMT Data|
-|`Bodycare estimate_CPD` | Bodycare pulse report split <br>- CPD Data Output Jul'26|*1. MY and SG Pulse Report <br> 2. MYSG ONE CPD CMI YTD Jun'26*|
+|`Bodycare estimate_CPD` | Bodycare pulse report split <br>- CPD Data Output Jul'26 <br>Only L'Oreal and Market numbers|*1. MY and SG Pulse Report <br> 2. MYSG ONE CPD CMI YTD Jun'26*|
 
 
 ## How to use
