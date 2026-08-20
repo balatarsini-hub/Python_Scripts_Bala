@@ -42,5 +42,5 @@ Download **CPD and LDB O+O** folder
 <br> **LDB Brand Ranking**
 1. Update files to the latest path <br>
 2. Estimate bodycare competitor
-2. In*'LDB Data Output Jun'26' (bodycare split output file* include suncare pulse split output data including competitors and bodycare competitor.
+2. In *'LDB Data Output Jun'26' (bodycare split output file* include suncare pulse split output data including competitors and bodycare competitor.
 
