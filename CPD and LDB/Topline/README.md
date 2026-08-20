@@ -69,7 +69,7 @@ Check the output in Generated Report with Raw data file
     -	Total CPD = sum of loreal brands (check sum)
     -	Check whether sum of all brands in generated file = 100
     -	After checking everything correct, copy and value paste in teams (in CPD and LDB O+O report)
-    -	CPD O+O path in teams: one drive, aa, general, current year, one division excel, updated month, ldb cmi ytd and cpd cmi ytd
+    -	CPD and LDB O+O path in teams: one drive, aa, general, current year, one division excel, updated month, ldb cmi ytd and cpd cmi ytd
     -	Value paste everything 
     -	Make sure all months changed (table, title)
   
