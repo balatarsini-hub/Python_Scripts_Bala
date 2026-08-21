@@ -44,7 +44,7 @@ Download **CPD and LDB O+O and Offline Bodycare ingestion** folder
 2. Change the path
 
 <br> **Bodycare estimate**
-1. Update files to the latest path <br>
-2. Change REPORT_HEADER_ROW if needed
+1. Update files to the latest path (refer the scripts and search for the paths accordingly to find out which file i have used. <br>
+2. Change REPORT_HEADER_ROW if needed. Sometime the brands row number will change. (eg. last quarter in bodycare pulse report the header was in 10th row, so I put 10. If row has changed means change the row number) 
 
 
