@@ -45,6 +45,8 @@ Download **CPD and LDB O+O and Offline Bodycare ingestion** folder
 
 <br> **Bodycare estimate**
 1. Update files to the latest path (refer the scripts and search for the paths accordingly to find out which file i have used. <br>
-2. Change REPORT_HEADER_ROW if needed. Sometime the brands row number will change. (eg. last quarter in bodycare pulse report the header was in 10th row, so I put 10. If row has changed means change the row number) 
+2. Change REPORT_HEADER_ROW if needed. Sometime the brands row number will change. (eg. last quarter in bodycare pulse report the header was in 10th row, so I put 10. If row has changed means change the row number)
+3. Make sure the bodycare pulse structure is same as the Offline Bodycare ingestion V 23.06.26 > Offline Bodycare ingestion > Hand and Body Pulse reports > MY L'OREAL_Hand & Body Mositurizer Report - 2026-04-20 (1) file.
+4. If not copy paste the new pulse report data in this file to make sure the structure is same. Make sure the Brands name also same with that file Or can modify the script according to new pulse report structure
 
 
